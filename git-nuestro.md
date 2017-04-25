@@ -1,4 +1,4 @@
-#Git nuestro#
+#Control de versiones nuestro#
 
 *Git* nuestro que estás en los repos
 
